@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivana-chipeja
 - 👀 I’m interested in learning how to code, how to properly document and acquire the necessary tech skills to my future job
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and HTML
 - 💞️ I’m looking to collaborate on a lot of projects
 - 📫 How to reach me ...
 
