@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Ivana Chipeja
-- 👀 I’m interested in Machine Learning and Web Development (Front-End and Back-End)
+- 👀 I’m interested in Machine Learning/Artificial Intelligence and Web Development (Front-End and Back-End)
 - 🌱 I’m currently learning C++ and Responsive Web Design
 - 💞️ I’m looking to share my projects and cobtribute to Open Source
 - 📫 How to reach me ...
