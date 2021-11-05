@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ivana-chipeja
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on a lot of projects
+- 👋 Hi, my name is Ivana Chipeja
+- 👀 I’m interested in Machine Learning and Web Development (Front-End and Back-End)
+- 🌱 I’m currently learning C++ and Responsive Web Design
+- 💞️ I’m looking to share my projects and cobtribute to Open Source
 - 📫 How to reach me ...
 
 <!---
