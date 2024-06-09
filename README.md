@@ -1,4 +1,5 @@
-- 👋 Hi, my name is Ivana Chipeja
+Hello there! My name is Ivana Chipeja, a beginner programmer and Computer Science major. 
+
 - 👀 I’m interested in Machine Learning/Artificial Intelligence and Web Development (Front-End and Back-End)
 - 🌱 I’m currently learning Responsive Web Design
 - 💞️ I’m looking to share my projects and contribute to Open Source
