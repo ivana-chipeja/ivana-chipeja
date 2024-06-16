@@ -28,7 +28,7 @@ My current tech stack and the tools that I use:
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="45"> GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> GitHub Stats
 My GitHub stats:
 
 ![Ivana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivana-chipeja&show_icons=true&theme=nightowl) 
@@ -37,7 +37,7 @@ My GitHub stats:
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="30"> Contact Me
+## <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="45"> Contact Me
 You can contact me through these links:
 
 <p>
@@ -50,7 +50,7 @@ You can contact me through these links:
 
 <br>
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f7ba88c3-6090-48bc-919d-39c17944ea04" width="75"> Thanks
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f7ba88c3-6090-48bc-919d-39c17944ea04" width="35"> Thanks
 This profile was inspired by @ApoorvTyagi and @cxyfreedom profiles. A big thank you to @abhisheknaiidu for the resources!
 
 
