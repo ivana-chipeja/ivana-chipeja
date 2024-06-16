@@ -4,8 +4,8 @@ You are visitor number: ![Visitor Count](https://profile-counter.glitch.me/{ivan
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="45"> About Me
-Hello there<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="10">! My name is Ivana Chipeja, I am a beginner programmer and a Computer Science major.
+## <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="55"> About Me
+Hello there<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="30">! My name is Ivana Chipeja, I am a beginner programmer and a Computer Science major.
 - I am currently learning Python on Udemy and taking the Google Cybersecurity certification on Coursera;
 - I have experience in Java, Python, Git and a little bit in HTML, CSS, and MySQL;
 - I am interested in Back-End Development, App Development, Cybersecurity and Artificial Intelligence;
@@ -13,7 +13,7 @@ Hello there<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/asse
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45"> Tech Stack and Tools
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> Tech Stack and Tools
 My current tech stack and the tools that I use:
 
 <p>
@@ -37,7 +37,7 @@ My GitHub stats:
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="45"> Contact Me
+## <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="30"> Contact Me
 You can contact me through these links:
 
 <p>
