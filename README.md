@@ -11,6 +11,7 @@ Hello there! My name is Ivana Chipeja, a beginner programmer and Computer Scienc
 
 ## Tech Stack and Tools
 
+<p>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="65" height="65"/>
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="45" height="55"/>
@@ -18,12 +19,13 @@ Hello there! My name is Ivana Chipeja, a beginner programmer and Computer Scienc
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="45" height="55"/>
+</p>
 
 <br>
 
 ## Contact Me
 
-<p align="center">
+<p>
 
     <a href="(https://www.linkedin.com/in/ivana-chipeja/" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn" height="45" width="45" /></a>
     <a href="https://twitter.com/v_chipeja" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/t/17/twitter.svg" alt="Twitter" height="65" width="65" /></a>
