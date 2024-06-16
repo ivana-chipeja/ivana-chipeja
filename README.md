@@ -5,7 +5,7 @@ You are visitor number: ![Visitor Count](https://profile-counter.glitch.me/{ivan
 <br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="55"> About Me
-Hello there<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="30">! My name is Ivana Chipeja, I am a beginner programmer and a Computer Science major.
+Hello there<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="35">! My name is Ivana Chipeja, I am a beginner programmer and a Computer Science major.
 - I am currently learning Python on Udemy and taking the Google Cybersecurity certification on Coursera;
 - I have experience in Java, Python, Git and a little bit in HTML, CSS, and MySQL;
 - I am interested in Back-End Development, App Development, Cybersecurity and Artificial Intelligence;
