@@ -37,7 +37,7 @@ You can contact me through these links:
 
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ivana-chipeja.id&left_color=blue&right_color=purple)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ivana-chipeja.visitor-badge.id&left_color=blue&right_color=purple)
 
 <!---
 ivana-chipeja/ivana-chipeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
