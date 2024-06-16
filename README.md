@@ -29,7 +29,7 @@ My current tech stack and the tools that I use:
 ## GitHub Stats
 My GitHub stats:
 
-![Ivana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivana-chipeja&show_icons=true&theme=nightowl) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivana-chipeja&layout=compact_icons=true&theme=nightowl)
+![Ivana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivana-chipeja&show_icons=true&theme=nightowl) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivana-chipeja&layout=compact)
 
 <br>
 
