@@ -36,8 +36,9 @@ You can contact me through these links:
 </p>
 
 <br>
+<br>
 
-![Visitor Count](https://profile-counter.glitch.me/{ivana-chipeja}/count.svg)
+You are visitor number: ![Visitor Count](https://profile-counter.glitch.me/{ivana-chipeja}/count.svg)
 
 <!---
 ivana-chipeja/ivana-chipeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
