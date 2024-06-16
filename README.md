@@ -10,6 +10,7 @@ Hello there! My name is Ivana Chipeja, a beginner programmer and Computer Scienc
 <br>
 
 ## Tech Stack and Tools
+My current tech stack and the tools that I use:
 
 <p>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
@@ -27,7 +28,7 @@ Hello there! My name is Ivana Chipeja, a beginner programmer and Computer Scienc
 
 <p>
 
-    <a href="(https://www.linkedin.com/in/ivana-chipeja/" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn" height="45" width="45" /></a>
+    <a href="https://www.linkedin.com/in/ivana-chipeja/" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn" height="45" width="45" /></a>
     <a href="https://twitter.com/v_chipeja" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/t/17/twitter.svg" alt="Twitter" height="65" width="65" /></a>
     <a href="https://www.tiktok.com/@v_chipeja" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/t/69/tiktok-icon.svg" alt="TikTok" height="45" width="45" /></a>
     <a href="https://www.instagram.com/vanuxxa_shipp" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/d/15/discord.svg" alt="Discord" height="45" width="45" /></a>
