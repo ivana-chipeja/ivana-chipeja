@@ -26,7 +26,6 @@ My current tech stack and the tools that I use:
 
 ## Contact Me
 
-<p>
 
     <a href="https://www.linkedin.com/in/ivana-chipeja/" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn" height="45" width="45"></a>
     <a href="https://twitter.com/v_chipeja" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/t/17/twitter.svg" alt="Twitter" height="65" width="65"></a>
@@ -34,7 +33,6 @@ My current tech stack and the tools that I use:
     <a href="https://www.instagram.com/vanuxxa_shipp" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/d/15/discord.svg" alt="Discord" height="45" width="45"></a>
     <a href="http://discord.com/users/vanuu." target="blank"><img align="center" src="https://www.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram" height="45" width="45"></a>
 
-</p>
 
 
 <!---
