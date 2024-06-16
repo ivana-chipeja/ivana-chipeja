@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansita+Swashed&size=35&pause=1000&color=8A34F7&random=false&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+You are visitor number: ![Visitor Count](https://profile-counter.glitch.me/{ivana-chipeja}/count.svg)
+
 ## About Me
 Hello there! My name is Ivana Chipeja, a beginner programmer and Computer Science major.
 - I am currently learning Python on Udemy and taking the Google Cybersecurity certification on Coursera;
@@ -24,6 +26,26 @@ My current tech stack and the tools that I use:
 
 <br>
 
+## GitHub Stats
+My GitHub stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivana-chipeja)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<br>
+
 ## Contact Me
 You can contact me through these links:
 
@@ -34,11 +56,6 @@ You can contact me through these links:
     <a href="https://www.instagram.com/vanuxxa_shipp" target="blank"><img src="https://www.cdnlogo.com/logos/d/15/discord.svg" alt="Discord" height="45" width="45"></a>
     <a href="http://discord.com/users/vanuu." target="blank"><img src="https://www.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram" height="45" width="45"></a>
 </p>
-
-<br>
-<br>
-
-You are visitor number: ![Visitor Count](https://profile-counter.glitch.me/{ivana-chipeja}/count.svg)
 
 <!---
 ivana-chipeja/ivana-chipeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
