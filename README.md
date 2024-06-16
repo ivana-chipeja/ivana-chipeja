@@ -30,6 +30,7 @@ My current tech stack and the tools that I use:
 My GitHub stats:
 
 ![Ivana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivana-chipeja&show_icons=true&theme=nightowl) 
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivana-chipeja&layout=compact&theme=nightowl)
 
 <br>
