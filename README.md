@@ -1,9 +1,21 @@
-Hello there! My name is Ivana Chipeja, a beginner programmer and Computer Science major. 
+<div align="center">
+    <p>
+        <img src="URL_OF_YOUR_GIF.gif" alt="Descriptive Text for the GIF" />
+    </p>
+</div>
 
-- 👀 I’m interested in Machine Learning/Artificial Intelligence and Web Development (Front-End and Back-End)
-- 🌱 I’m currently learning Responsive Web Design
-- 💞️ I’m looking to share my projects and contribute to Open Source
-- 📫 You can reach me on Twitter: @v_chipeja
+
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>
+      Hello there! My name is Ivana Chipeja, a beginner programmer and Computer Science major. I am currently learning Python and taking the Google Cybersecurity Certificate on Coursera. I also have some experience in HTML and CSS. I am interested in Back-End Development, App Development, Cybersecurity and Artificial Intelligence. I want to share my projects and contribute to Open Source. 
+    </p>
+    <p>
+      Besides coding, I also like to listen to music, watch movies/TV and play games (especially The Sims). 
+    </p>
+</div>
+
+
 
 <!---
 ivana-chipeja/ivana-chipeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
