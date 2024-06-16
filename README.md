@@ -35,10 +35,11 @@ You can contact me through these links:
     <a href="http://discord.com/users/vanuu." target="blank"><img src="https://www.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram" height="45" width="45"></a>
 </p>
 
+<br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ivana-chipeja.id&left_color=blue&right_color=purple)
 
 <!---
 ivana-chipeja/ivana-chipeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
