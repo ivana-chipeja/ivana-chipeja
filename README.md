@@ -37,7 +37,7 @@ My GitHub stats:
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="45"> Contact Me
+## <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="35"> Contact Me
 You can contact me through these links:
 
 <p>
