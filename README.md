@@ -24,6 +24,8 @@ My current tech stack and the tools that I use:
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="45" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio" width="45" height="55"/>
+    
 </p>
 
 <br>
