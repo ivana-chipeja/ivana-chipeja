@@ -35,7 +35,9 @@ My GitHub stats:
 
 ![Ivana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivana-chipeja&show_icons=true&theme=nightowl) 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivana-chipeja&layout=compact&theme=nightowl) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivana-chipeja&repo=bookstore&theme=nightowl)](https://github.com/ivana-chipeja/bookstore)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivana-chipeja&layout=compact&theme=nightowl) 
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivana-chipeja&repo=bookstore&theme=nightowl)](https://github.com/ivana-chipeja/bookstore)
 
 
 <br>
