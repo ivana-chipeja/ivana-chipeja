@@ -37,8 +37,7 @@ My GitHub stats:
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivana-chipeja&layout=compact&theme=nightowl) 
 <br>
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivana-chipeja&repo=bookstore&theme=nightowl)](https://github.com/ivana-chipeja/bookstore)
 
 <br>
 
